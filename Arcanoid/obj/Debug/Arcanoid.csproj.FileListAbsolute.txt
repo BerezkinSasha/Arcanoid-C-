@@ -1,0 +1,11 @@
+C:\Users\Aleksandr\Desktop\ArcanoidExtra-master\Arcanoid\bin\Debug\Arcanoid.exe.config
+C:\Users\Aleksandr\Desktop\ArcanoidExtra-master\Arcanoid\bin\Debug\Arcanoid.exe
+C:\Users\Aleksandr\Desktop\ArcanoidExtra-master\Arcanoid\bin\Debug\Arcanoid.pdb
+C:\Users\Aleksandr\Desktop\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\Desktop\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.Form1.resources
+C:\Users\Aleksandr\Desktop\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.Properties.Resources.resources
+C:\Users\Aleksandr\Desktop\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.csproj.GenerateResource.cache
+C:\Users\Aleksandr\Desktop\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\Desktop\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.exe
+C:\Users\Aleksandr\Desktop\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.pdb
+C:\Users\Aleksandr\Desktop\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.Form2.resources
